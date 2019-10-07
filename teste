@@ -1,8 +1,5 @@
+
 <channel id="RTP 1">
-    <display-name lang="pt">RTP 1</display-name>
-    <url>http://www.mag.sapo.pt</url>
-</channel>
-  <channel id="RTP 1">
     <display-name lang="pt">RTP 1 HD</display-name>
     <url>http://www.mag.sapo.pt</url>
 </channel>
